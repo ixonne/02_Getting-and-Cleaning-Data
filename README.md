@@ -22,4 +22,4 @@ Merges the training and the test sets to create one data set.
 
 More information
 ----------------
-CodeBook.md contain more information about data transformations and naming conventions for variables.
+CodeBook.md contains more information about data transformations and naming conventions for variables.
