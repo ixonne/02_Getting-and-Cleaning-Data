@@ -20,3 +20,6 @@ Merges the training and the test sets to create one data set.
 + Appropriately labels the data set with descriptive variable names. 
 + From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+More information
+----------------
+CodeBook.md contain more information about data transformations and naming conventions for variables.
